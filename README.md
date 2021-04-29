@@ -4,6 +4,8 @@ Project was copleted
 
 <strong> Edge driver was used in this project </strong> <br>
 
+<strong> If you want, you can use your own account to login </strong> <br>
+
 Thank You :)
 
 
