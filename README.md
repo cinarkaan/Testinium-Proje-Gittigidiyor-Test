@@ -2,6 +2,8 @@
 
 Project was copleted
 
+<strong> Edge driver was used in this project </strong> <br>
+
 Thank You :)
 
 
